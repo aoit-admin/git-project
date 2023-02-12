@@ -6,3 +6,7 @@
 ## ---------- script that display hello word in the screen -----------------
 
 echo "Yello Word !"
+pwd
+ls
+Date
+echo "Time to learn script for the future"
